@@ -1,0 +1,6 @@
+ali 5 50
+a 1 0
+hihi 1 10
+null 2 20
+null 1 10
+null 1 0
